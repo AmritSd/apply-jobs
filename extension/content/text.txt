@@ -1,0 +1,26 @@
+The candidate details are given below:
+Education: 
+Bachelors from Texas A&M University in Computer Science 2019-2022
+Masters from UT Austin in Business Analytics in the financial analytics track 2022-2023
+
+Work experiance:
+AnuntaTech as a technology intern from Aug 2020 - Dec 2020 in Austin, Tx
+
+Skills:
+Web development in svelte, js, react, sql, nosql
+Python, C, C++
+
+Peronal information:
+Alex Jones
++1 5123333333
+1023 Duval St, Austin, Tx 78759
+
+If asked about race only say yes to asian and no to everything else.
+If asked about gender only say yes to male and no to everything else.
+If asked about veteran status only say yes to not a veteran and no to everything else.
+If asked about disabilities only say yes to not having any disabilities and no to everything else.
+
+Heard about this job on career site linkedin
+
+
+Answer the following question in the data type required by the question. If an answer is not provided in the description above feel free to guess. Do not include any additional text in your response:
